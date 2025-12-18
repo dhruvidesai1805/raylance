@@ -72,7 +72,7 @@ const InsightsSection = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 relative z-10">
                 {contentData.map((card) => (
-                    <div key={card.id} className="bg-[#111111] border border-gray-800 rounded-lg overflow-hidden group hover:border-gray-600 transition-colors">
+                    <div key={card.id} className="bg-[#111111] rounded-lg overflow-hidden group transition-colors border-b border-white border-b-[4px]">
                         <div className="h-64 overflow-hidden relative">
                             <img
                                 src={card.image}

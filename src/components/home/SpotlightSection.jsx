@@ -32,7 +32,7 @@ const SpotlightSection = () => {
                         />
                     </div>
 
-                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px]">
+                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px] ml-8 border-b border-white border-b-[4px]">
                         <img
                             src={caseStudiesImage}
                             alt="Case Study"
@@ -47,7 +47,7 @@ const SpotlightSection = () => {
 
                 <div className="lg:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-6 h-full">
 
-                    <div className="relative group overflow-hidden rounded-lg p-8 flex flex-col justify-between bg-gradient-to-br from-blue-700 to-purple-800 h-[370px]">
+                    <div className="relative group overflow-hidden rounded-lg p-8 flex flex-col justify-between bg-gradient-to-br from-blue-700 to-purple-800 h-[370px] border-b border-white border-b-[4px]">
                         <div>
                             <h3 className="text-xl font-bold uppercase tracking-wider mb-6">NEWS ARTICLES</h3>
                             <p className="text-lg text-white/90 font-medium">
@@ -58,7 +58,7 @@ const SpotlightSection = () => {
                         <ArrowButton text="Learn more" />
                     </div>
 
-                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px]">
+                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px] border-b border-white border-b-[4px]">
                         <img
                             src={blogsImage}
                             alt="Blogs"
@@ -70,7 +70,7 @@ const SpotlightSection = () => {
                         </div>
                     </div>
 
-                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px]">
+                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px] border-b border-white border-b-[4px]">
                         <img
                             src={reportImage}
                             alt="Report"
@@ -82,7 +82,7 @@ const SpotlightSection = () => {
                         </div>
                     </div>
 
-                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px]">
+                    <div className="relative group overflow-hidden rounded-lg bg-gray-800 h-[370px] border-b border-white border-b-[4px]">
                         <img
                             src={successStoryImage}
                             alt="Success Story"
