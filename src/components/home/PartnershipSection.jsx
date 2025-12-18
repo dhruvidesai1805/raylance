@@ -32,7 +32,7 @@ const PartnershipSection = () => {
 
                 <div className="w-full lg:w-1/2">
                     <h2 className="text-4xl md:text-5xl font-bold mb-8 leading-tight">
-                        The Power <span className="text-[#a855f7]">of Partnership</span>
+                        The Power <span className="title-highlight">of Partnership</span>
                     </h2>
 
                     <p className="text-gray-300 text-lg leading-relaxed mb-10 max-w-lg">

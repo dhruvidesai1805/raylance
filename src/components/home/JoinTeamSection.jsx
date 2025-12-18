@@ -39,7 +39,7 @@ const JoinTeamSection = () => {
 
             <div className="relative z-10 mb-12">
                 <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                    Join <span className="text-hpit-purple-light">Our</span> Team
+                    Join <span className="title-highlight">Our</span> Team
                 </h2>
                 <p className="text-gray-400 max-w-2xl text-lg">
                     We're always looking for passionate, driven individuals to grow with us.

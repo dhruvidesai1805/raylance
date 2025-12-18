@@ -41,7 +41,7 @@ const InsightsSection = () => {
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-12 relative z-10">
                 <div className="max-w-2xl">
                     <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                        Explore <span className="text-[#B088FF]">Our Latest Insights</span>
+                        Explore <span className="title-highlight">Our Latest Insights</span>
                     </h2>
                     <p className="text-gray-400 text-lg">
                         Explore our latest insights to stay ahead of the curve with fresh perspectives, expert analysis, and emerging trends across industries.

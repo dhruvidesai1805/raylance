@@ -58,7 +58,7 @@ const ServicesSection = () => {
 
             <div className="py-20 text-center px-6">
                 <h2 className="text-4xl md:text-[48px] font-bold mb-4">
-                    Our <span className="text-purple-500">Services</span>
+                    Our <span className="title-highlight">Services</span>
                 </h2>
                 <p className="text-[#DADBDD] max-w-2xl mx-auto text-sm md:text-base">
                     These case studies highlight the challenges our clients faced, the robust solutions we provided, and the measurable results achieved.

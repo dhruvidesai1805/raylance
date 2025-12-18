@@ -27,3 +27,15 @@ body {
 .swiper-button-lock {
   display: flex;
 }
+
+.title-highlight {
+  background: radial-gradient(circle, #8076f4 0%, #ffffff 70%);
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  padding-bottom: 1rem;
+  display: inline-block;
+}

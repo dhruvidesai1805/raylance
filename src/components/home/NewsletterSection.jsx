@@ -7,7 +7,7 @@ const NewsletterSection = () => {
         <section className="w-full bg-[#020202] text-white py-20 px-6 md:px-16 lg:px-24">
 
             <h2 className="text-4xl md:text-5xl font-bold mb-16">
-                Featured <span className="text-[#B088FF]">Newsletter</span>
+                Featured <span className="title-highlight">Newsletter</span>
             </h2>
 
             <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 items-center">

@@ -15,7 +15,7 @@ const SpotlightSection = () => {
             <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-purple-900/20 blur-[120px] rounded-full pointer-events-none"></div>
 
             <div className="mb-16 relative z-10  px-6 md:px-12 lg:px-10">
-                <h2 className="text-4xl md:text-5xl font-bold mb-4">SpotLight</h2>
+                <h2 className="text-4xl md:text-5xl font-bold mb-4 title-highlight">SpotLight</h2>
                 <p className="text-[#DADBDD] text-lg">
                     SpotLight showcases the people, projects, and ideas driving innovation and impact across HPIT
                 </p>
