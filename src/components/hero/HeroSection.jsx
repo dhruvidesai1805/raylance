@@ -57,7 +57,7 @@ const HeroSection = () => {
                 effect={'fade'}
                 speed={1000}
                 autoplay={{
-                    delay: 1000,
+                    delay: 5000,
                     disableOnInteraction: false,
                 }}
                 loop={true}
